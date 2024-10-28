@@ -10,23 +10,23 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "923272573938"
+global.ownernomer = "923082990885"
 global.ownername = "Lucifer"
 global.ytname = "YT: lol"
 global.socialm = "GitHub: lol"
 global.location = "India, Up, Rampur"
 
-global.ownernumber = '923272573938'  //creator number
+global.ownernumber = '923082990885'  //creator number
 global.ownername = '🐛 Lucifer' //owner name
 global.botname = 'Lucifer' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'Lucifer\n\nContact: +923272573938'
+global.author = 'Lucifer\n\nContact: 923082990885'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "Youtube God."
+global.wm = "God."
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029VajSGMK35fM0r5v5wp20'
